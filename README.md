@@ -43,6 +43,6 @@
 ---
 
 ### 🔗 Onde me encontrar
-- 🌐 Portfólio: **Em construção**
+- 🌐 Portfólio: https://portfolio.dev-joao.app.br (Em construção)
 - 💼 LinkedIn: https://www.linkedin.com/in/joaopaulogoulart/
 - 📧 Email: capelajoao.dev@gmail.com
